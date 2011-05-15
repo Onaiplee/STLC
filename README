@@ -1,0 +1,9 @@
+This is a simply typed lambda calculus interpreter. 
+
+Here is the grammar of Church monotypes
+
+T ::= int | bool | ...    base types
+    | T -> T              function types
+    | T x T               pair types
+
+Usage: TODO
